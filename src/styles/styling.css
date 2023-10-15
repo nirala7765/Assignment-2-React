@@ -1,0 +1,403 @@
+
+*{
+padding: 0px;
+margin: 0px;
+}
+.webcontainer{
+width: 100vw;
+height: max-content;
+background-color: #fff;
+}
+header{
+    position: sticky;
+    top: 0;
+}
+
+.head{
+    padding: 16px 78px;
+    background-color: #fff;
+    border-bottom: 1px solid  gainsboro;
+    display: flex;
+    flex-direction: row;
+    gap: 10PX;
+    
+
+}
+.logoBox{
+    width: auto;
+    height: max-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.logoBox:hover{
+    cursor: pointer;
+}
+.logo{
+    width: 130px;
+    
+}
+.STORIESTEXT{
+    Margin: 0;
+    margin-top: 5px;
+    font-weight: 500;
+    font-family: poppins,sans-serif;
+    font-style: italic;
+    font-size: 1em;
+    line-height: .9;
+
+}
+.dropimg{
+    width: 18px;
+    height: 10px;
+    margin-top: 15px;
+    color: black;
+    margin-left: 8px;
+}
+.dropimg:hover{
+    cursor: pointer;
+}
+label:hover{
+    cursor: pointer;
+}
+label{
+    color: black;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+.webButton{
+   padding: 0px 35px;
+   border-radius: 100px;
+   background-color: #0096ff;
+   color: #fff;
+   border: none;
+   margin-left: 75px;
+}
+.webButton:hover{
+    cursor: pointer;
+}
+.sampleText{
+    color: gray;
+    margin-left: 370px;
+    margin-top: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.mainBox{
+
+    margin: 0px auto;
+    width: 100%;
+    background-color: aliceblue;
+    height: max-content;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 40px;
+   
+}
+.container{
+    width: 1010px;
+    margin: 0px auto;
+    
+}
+
+.TrendsContainer{
+    display: flex;
+    height: max-content;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.cardsContainer{
+
+    height: max-content;
+    width: 1010px;
+    display: flex;
+    gap: 10px;
+    margin: 10px auto;
+   
+
+
+
+}
+.TrendingP{
+    font-size: 40px;
+    padding-top: 20px;
+    
+    margin-bottom: 10px;
+}
+
+.leftcard img{
+    width: 600px;
+    height: 470px;
+    border-radius: 10px;
+}
+.leftcard img:hover{
+    cursor: pointer;
+}
+
+.rightcrad{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+   
+    gap: 15px;
+}
+.rightcrad img{
+    border-radius: 10px;
+}
+.rightcrad img:hover{
+    cursor: pointer;
+}
+
+.categoryContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.filter{
+    display: flex;
+    flex-direction: row;
+}
+
+.filter img{
+    height: 25px;
+    width: 30px;
+}
+.filterText{
+    font-size: 16px;
+    font-weight: 600;
+    margin-left: 8px;
+
+}
+
+.posts{
+        margin-bottom: 20px;
+        padding-top: 16px;
+        
+
+}
+.Buttons button{
+    padding: 6px 14px;
+    width: auto;
+    color: #0084ff;
+    border-radius: 15px;
+    border: 1px solid #0084ff;
+    margin: 5px;
+    background-color: aliceblue;
+
+}
+
+.Buttons button:hover{
+    cursor: pointer;
+}
+
+#all{
+    background-color: #0084ff;
+    color: #fff;
+}
+
+.itemContainer{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    gap: 15px;
+   
+    
+    
+}
+
+.cardItemContainer{
+    width: 33.3%;
+    
+    border-radius: 10px;
+    
+   
+
+}
+
+.imgsect{
+    height: 176px;
+    width: 100%;
+}
+.imgsect img{
+    height: 100%;
+    width: 100%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.textswrap{
+    
+
+    background-color: white;
+    border-left: 1px solid skyblue;
+    border-right: 1px solid skyblue;
+    border-bottom: 1px solid skyblue;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    
+
+
+}
+.textsec{
+    padding: 10px 24px;
+   
+}
+.textsec h2{
+    
+    text-align: left;
+    margin: 0;
+    font-weight: 600;
+
+}
+
+.authorContainer{
+    padding-top: 4px;
+    display: flex;
+    flex-direction: row;
+    
+}
+.Author{
+    color: #0096ff;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: 500;
+    margin-left: 21px;
+
+}
+
+.date{
+    color: rgb(0,0,0,0.7);
+    font-size: 14px;
+    font-weight: 300;
+
+}
+.discripSec{
+    padding: 10px 24px;
+}
+.DiscripText{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.43;
+    color: rgba(0, 0, 0, .6);
+    margin: 4px 0;
+
+    
+
+
+    
+}
+.imgsect img:hover{
+    cursor: pointer;
+}
+.textswrap:hover{
+    cursor: pointer;
+
+}
+
+.footerContainer{
+    
+    display: flex;
+    flex-direction: row;
+    gap: 145px;
+    
+
+}
+.edyodaAddress{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.name{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+.add{
+    color: white;
+}
+.mailbox{
+    display: flex;
+    flex-direction: row;
+    color: white;
+    gap: 5px;
+}
+.mailbox:hover{
+    cursor: pointer;
+}
+.mailbox img{
+    width: 20px;
+    height: 20px;
+    
+    
+}
+.socialIcons{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+
+}
+.socialIcons img{
+    width: 20px;
+    height: 25px;
+}
+.socialIcons img:hover{
+    cursor: pointer;
+}
+.info{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    
+}
+.info .name2{
+    color: rgba(228, 238, 238, 0.681);
+
+}
+.infoContent{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    color: white;
+}
+.infoContent span:hover{
+    cursor: pointer;
+}
+.name3{
+    margin-top: 15px;
+    color: rgba(228, 238, 238, 0.681);
+    
+
+}
+.foot{
+    display: flex;
+    flex-direction: column;
+    background-color: #172146;
+    padding: 80px 16%;
+}
+footer{
+
+    padding-bottom: 40px;
+    background-color: #172146;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
