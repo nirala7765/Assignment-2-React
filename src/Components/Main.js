@@ -234,91 +234,91 @@ function Main() {
 
 
                             <div class="carditemContainer">
-                        <div class="imgsect">
-                            <img src="https://firebasestorage.googleapis.com/v0/b/iplteaminfowebapp.appspot.com/o/storiesApp%2Fcollection.png?alt=media&token=8a26118a-8f7c-4d7a-a900-9c0129a8a853&_gl=1*1uq0gzy*_ga*MjE5ODk3MDMxLjE2Nzc2NzE1MTQ.*_ga_CW55HF8NVT*MTY5NzM3NzM5MS40MS4xLjE2OTczNzc2MzMuNjAuMC4w" alt=""/>
-                        </div>
-                        <div class="textswrap">
-                            <div class="textsec">
-                                <h2>LAMP Stack Vs MEAN <br/>stack: Choosing the</h2>
-                            </div>
+                                <div class="imgsect">
+                                    <img src="https://firebasestorage.googleapis.com/v0/b/iplteaminfowebapp.appspot.com/o/storiesApp%2Fcollection.png?alt=media&token=8a26118a-8f7c-4d7a-a900-9c0129a8a853&_gl=1*1uq0gzy*_ga*MjE5ODk3MDMxLjE2Nzc2NzE1MTQ.*_ga_CW55HF8NVT*MTY5NzM3NzM5MS40MS4xLjE2OTczNzc2MzMuNjAuMC4w" alt="" />
+                                </div>
+                                <div class="textswrap">
+                                    <div class="textsec">
+                                        <h2>LAMP Stack Vs MEAN <br />stack: Choosing the</h2>
+                                    </div>
 
 
-                            <div class="AuthorContainer">
-                                <span class="Author">EdYoda</span>
-                                <span class="date">| 24 Aug 2019 </span>
+                                    <div class="AuthorContainer">
+                                        <span class="Author">EdYoda</span>
+                                        <span class="date">| 24 Aug 2019 </span>
 
-                            </div>
+                                    </div>
 
-                            <div class="discripSec">
+                                    <div class="discripSec">
 
-                                <span class="DiscripText">In today’s dynamic world,<br/>rapid web application<br/>development with a smooth <br/>can adapt to specific features is<br/>the main business requirement....
-                                    <br/> <br/> <br/>
-                                </span>
-                            
-                            </div>
-                        </div>    
+                                        <span class="DiscripText">In today’s dynamic world,<br />rapid web application<br />development with a smooth <br />can adapt to specific features is<br />the main business requirement....
+                                            <br /> <br /> <br />
+                                        </span>
 
+                                    </div>
+                                </div>
 
-                    </div>
-
-                    <div class="carditemContainer">
-                        <div class="imgsect">
-                            <img src="https://firebasestorage.googleapis.com/v0/b/iplteaminfowebapp.appspot.com/o/storiesApp%2FwebScarping.png?alt=media&token=e298b4e8-62f5-48fb-b795-1dad0e0ff0bb&_gl=1*2m02zh*_ga*MjE5ODk3MDMxLjE2Nzc2NzE1MTQ.*_ga_CW55HF8NVT*MTY5NzM3NzM5MS40MS4xLjE2OTczNzc2NzMuMjAuMC4w" alt=""/>
-                        </div>
-                        <div class="textswrap">
-                            <div class="textsec">
-                                <h2>What is Web Scraping? <br/> in Detail</h2>
-                            </div>
-
-
-                            <div class="AuthorContainer">
-                                <span class="Author">Zac Clancy</span>
-                                <span class="date">| 25 Sep 2019 </span>
 
                             </div>
 
-                            <div class="discripSec">
+                            <div class="carditemContainer">
+                                <div class="imgsect">
+                                    <img src="https://firebasestorage.googleapis.com/v0/b/iplteaminfowebapp.appspot.com/o/storiesApp%2FwebScarping.png?alt=media&token=e298b4e8-62f5-48fb-b795-1dad0e0ff0bb&_gl=1*2m02zh*_ga*MjE5ODk3MDMxLjE2Nzc2NzE1MTQ.*_ga_CW55HF8NVT*MTY5NzM3NzM5MS40MS4xLjE2OTczNzc2NzMuMjAuMC4w" alt="" />
+                                </div>
+                                <div class="textswrap">
+                                    <div class="textsec">
+                                        <h2>What is Web Scraping? <br /> in Detail</h2>
+                                    </div>
 
-                                <span class="DiscripText">Simply put, web scraping is one <br/>of the tools developers use to <br/> gather and analyze information<br/>from the Internet.Some websites<br/>and platforms offer application...
-                                <br/><br/><br/> 
 
-                                </span>
-                            
+                                    <div class="AuthorContainer">
+                                        <span class="Author">Zac Clancy</span>
+                                        <span class="date">| 25 Sep 2019 </span>
+
+                                    </div>
+
+                                    <div class="discripSec">
+
+                                        <span class="DiscripText">Simply put, web scraping is one <br />of the tools developers use to <br /> gather and analyze information<br />from the Internet.Some websites<br />and platforms offer application...
+                                            <br /><br /><br />
+
+                                        </span>
+
+                                    </div>
+                                </div>
+
+
                             </div>
-                        </div>    
+
+                            <div class="carditemContainer">
+                                <div class="imgsect">
+                                    <img src="https://firebasestorage.googleapis.com/v0/b/iplteaminfowebapp.appspot.com/o/storiesApp%2F9th.png?alt=media&token=f183bfe2-4da9-4494-90c1-0dd0a2c44422&_gl=1*7czbhe*_ga*MjE5ODk3MDMxLjE2Nzc2NzE1MTQ.*_ga_CW55HF8NVT*MTY5NzM3NzM5MS40MS4xLjE2OTczNzc3MDQuNjAuMC4w" alt="" />
+                                </div>
+                                <div class="textswrap">
+                                    <div class="textsec">
+                                        <h2>Importance of Data <br />Backup and Recovery..</h2>
+                                    </div>
 
 
-                    </div>
+                                    <div class="AuthorContainer">
+                                        <span class="Author">EdYoda</span>
+                                        <span class="date">| 26 Aug 2019 </span>
 
-                    <div class="carditemContainer">
-                        <div class="imgsect">
-                            <img src="https://firebasestorage.googleapis.com/v0/b/iplteaminfowebapp.appspot.com/o/storiesApp%2F9th.png?alt=media&token=f183bfe2-4da9-4494-90c1-0dd0a2c44422&_gl=1*7czbhe*_ga*MjE5ODk3MDMxLjE2Nzc2NzE1MTQ.*_ga_CW55HF8NVT*MTY5NzM3NzM5MS40MS4xLjE2OTczNzc3MDQuNjAuMC4w" alt=""/>
-                        </div>
-                        <div class="textswrap">
-                            <div class="textsec">
-                                <h2>Importance of Data <br/>Backup and Recovery..</h2>
+                                    </div>
+
+                                    <div class="discripSec">
+
+                                        <span class="DiscripText">A business must always <br />introspect the areas where they <br />lack in order to bring about a <br />positive change in the work <br />environment. One of the main...
+                                            <br /> <br /> <br />
+                                        </span>
+
+                                    </div>
+                                </div>
+
+
                             </div>
 
 
-                            <div class="AuthorContainer">
-                                <span class="Author">EdYoda</span>
-                                <span class="date">| 26 Aug 2019 </span>
-
-                            </div>
-
-                            <div class="discripSec">
-
-                                <span class="DiscripText">A business must always <br/>introspect the areas where they <br/>lack in order to bring about a <br/>positive change in the work <br/>environment. One of the main...
-                                    <br/> <br/> <br/>
-                                </span>
-                            
-                            </div>
-                        </div>    
-
-
-                    </div>
-                    
-                            
 
 
 
@@ -364,121 +364,121 @@ function Main() {
 
 
             <footer>
-            <div class="foot">
-                <div class="footerContainer">
+                <div class="foot">
+                    <div class="footerContainer">
 
-                    <div class="edyodaAddress">
-                    <span class="name">EDYODA</span>
-                    <span class="add">1st Floor,<br/>
-                        Gopalan Millennium Tower,<br/>
-                        ITPL Main Rd, Brookefield,<br/>
-                        Bengaluru, Karnataka-560037,<br/>
-                        India
-                    </span>
-                    <div class="mailbox">
-                        <img  class="mailboxicon" src="https://firebasestorage.googleapis.com/v0/b/iplteaminfowebapp.appspot.com/o/storiesApp%2Fmaiboxnew.png?alt=media&token=cbd5c844-b8dd-4367-93c3-3b1145298128&_gl=1*14t5nmj*_ga*MjE5ODk3MDMxLjE2Nzc2NzE1MTQ.*_ga_CW55HF8NVT*MTY5NzM3NzM5MS40MS4xLjE2OTczNzkwOTguNTQuMC4w" alt=""/>
-                        <span class="mailtext">hello@edyoda.com</span>
-                    </div>
-                    <div class="socialIcons">
-                        <img src="https://firebasestorage.googleapis.com/v0/b/iplteaminfowebapp.appspot.com/o/storiesApp%2Fmap.png?alt=media&token=656fcb5e-1c7b-409e-a94c-57d1b9e765bf&_gl=1*17unwk8*_ga*MjE5ODk3MDMxLjE2Nzc2NzE1MTQ.*_ga_CW55HF8NVT*MTY5NzM3NzM5MS40MS4xLjE2OTczNzkzMjUuNjAuMC4w" alt=""/>
-                        <img src="https://firebasestorage.googleapis.com/v0/b/iplteaminfowebapp.appspot.com/o/storiesApp%2Flinkedin.png?alt=media&token=27835ed4-e29f-4e39-ba4c-a54745465da5&_gl=1*15xyf9j*_ga*MjE5ODk3MDMxLjE2Nzc2NzE1MTQ.*_ga_CW55HF8NVT*MTY5NzM3NzM5MS40MS4xLjE2OTczNzkzNTguMjcuMC4w" alt=""/>
-                        <img src="https://firebasestorage.googleapis.com/v0/b/iplteaminfowebapp.appspot.com/o/storiesApp%2Ffacebook.png?alt=media&token=de73e85a-722b-4f20-abb7-e0cce0c40ce6&_gl=1*4mdnp2*_ga*MjE5ODk3MDMxLjE2Nzc2NzE1MTQ.*_ga_CW55HF8NVT*MTY5NzM3NzM5MS40MS4xLjE2OTczNzkzODYuNjAuMC4w" alt=""/>
-                        <img src="https://firebasestorage.googleapis.com/v0/b/iplteaminfowebapp.appspot.com/o/storiesApp%2Ftwitter.png?alt=media&token=fe1f2715-edd1-4197-a3ff-88c1315b1069&_gl=1*6fsum7*_ga*MjE5ODk3MDMxLjE2Nzc2NzE1MTQ.*_ga_CW55HF8NVT*MTY5NzM3NzM5MS40MS4xLjE2OTczNzk0NDcuNjAuMC4w" alt=""/>
-                        <img src="https://firebasestorage.googleapis.com/v0/b/iplteaminfowebapp.appspot.com/o/storiesApp%2Ftelegram.png?alt=media&token=fa525c2c-ce03-4f13-b432-085d76f87694&_gl=1*gtf3nd*_ga*MjE5ODk3MDMxLjE2Nzc2NzE1MTQ.*_ga_CW55HF8NVT*MTY5NzM3NzM5MS40MS4xLjE2OTczNzk0NzguMjkuMC4w" alt=""/>
-                    </div>
-
-
-                    </div>
-
-                    <div class="info">
-                    <span class="name2">EDYODA</span>
-                    <div class="infoContent">
-                        <span>About us</span>
-                        <span>Careers</span>
-                        <span>Contact us</span>
-                        <span>Term of use</span>
-                        <span>Privacy Policy</span>
-                    </div>
-                    </div>
-                    <div class="info">
-                        <span class="name2">RESOUCES</span>
-                        <div class="infoContent">
-                            <span>Learning Path</span>
-                            <span>Courses</span>
-                            <span>Learning Videos</span>
-                            <span>Educators</span>
-                            <span>Edyoda Story</span>
-                            <span>University</span>
-                        </div>
-                    </div>
-                    <div class="info">
-                        <span class="name2">FOR ENTERPRISES</span>
-                        <div class="infoContent">
-                            <span>Train Your Employees</span>
-
-                            <div class="info">
-                                <h5 class="name3">QUICK LINKS</h5>
-                                <div class="infoContent">
-                                    <span>Learn and Earn</span>
-                                    <span>Become a Learning-Enabler</span>
-                                    <span>Tips for Learning-Enabler</span>
-                                    <span>Request New Topic</span>
-                                    <span>Certification</span>
-                                    <span>Affiliate Progam</span>
-
-
-                           
-
-
-
-
-
-        
-                                
-        
-                                
-        
-                                
-                                
-                                 </div>
-
-                        
-
-                        
-
-                        
-                        
+                        <div class="edyodaAddress">
+                            <span class="name">EDYODA</span>
+                            <span class="add">1st Floor,<br />
+                                Gopalan Millennium Tower,<br />
+                                ITPL Main Rd, Brookefield,<br />
+                                Bengaluru, Karnataka-560037,<br />
+                                India
+                            </span>
+                            <div class="mailbox">
+                                <img class="mailboxicon" src="https://firebasestorage.googleapis.com/v0/b/iplteaminfowebapp.appspot.com/o/storiesApp%2Fmaiboxnew.png?alt=media&token=cbd5c844-b8dd-4367-93c3-3b1145298128&_gl=1*14t5nmj*_ga*MjE5ODk3MDMxLjE2Nzc2NzE1MTQ.*_ga_CW55HF8NVT*MTY5NzM3NzM5MS40MS4xLjE2OTczNzkwOTguNTQuMC4w" alt="" />
+                                <span class="mailtext">hello@edyoda.com</span>
+                            </div>
+                            <div class="socialIcons">
+                                <img src="https://firebasestorage.googleapis.com/v0/b/iplteaminfowebapp.appspot.com/o/storiesApp%2Fmap.png?alt=media&token=656fcb5e-1c7b-409e-a94c-57d1b9e765bf&_gl=1*17unwk8*_ga*MjE5ODk3MDMxLjE2Nzc2NzE1MTQ.*_ga_CW55HF8NVT*MTY5NzM3NzM5MS40MS4xLjE2OTczNzkzMjUuNjAuMC4w" alt="" />
+                                <img src="https://firebasestorage.googleapis.com/v0/b/iplteaminfowebapp.appspot.com/o/storiesApp%2Flinkedin.png?alt=media&token=27835ed4-e29f-4e39-ba4c-a54745465da5&_gl=1*15xyf9j*_ga*MjE5ODk3MDMxLjE2Nzc2NzE1MTQ.*_ga_CW55HF8NVT*MTY5NzM3NzM5MS40MS4xLjE2OTczNzkzNTguMjcuMC4w" alt="" />
+                                <img src="https://firebasestorage.googleapis.com/v0/b/iplteaminfowebapp.appspot.com/o/storiesApp%2Ffacebook.png?alt=media&token=de73e85a-722b-4f20-abb7-e0cce0c40ce6&_gl=1*4mdnp2*_ga*MjE5ODk3MDMxLjE2Nzc2NzE1MTQ.*_ga_CW55HF8NVT*MTY5NzM3NzM5MS40MS4xLjE2OTczNzkzODYuNjAuMC4w" alt="" />
+                                <img src="https://firebasestorage.googleapis.com/v0/b/iplteaminfowebapp.appspot.com/o/storiesApp%2Ftwitter.png?alt=media&token=fe1f2715-edd1-4197-a3ff-88c1315b1069&_gl=1*6fsum7*_ga*MjE5ODk3MDMxLjE2Nzc2NzE1MTQ.*_ga_CW55HF8NVT*MTY5NzM3NzM5MS40MS4xLjE2OTczNzk0NDcuNjAuMC4w" alt="" />
+                                <img src="https://firebasestorage.googleapis.com/v0/b/iplteaminfowebapp.appspot.com/o/storiesApp%2Ftelegram.png?alt=media&token=fa525c2c-ce03-4f13-b432-085d76f87694&_gl=1*gtf3nd*_ga*MjE5ODk3MDMxLjE2Nzc2NzE1MTQ.*_ga_CW55HF8NVT*MTY5NzM3NzM5MS40MS4xLjE2OTczNzk0NzguMjkuMC4w" alt="" />
                             </div>
 
-                    
-                        </div>
-                
 
-                
+                        </div>
+
+                        <div class="info">
+                            <span class="name2">EDYODA</span>
+                            <div class="infoContent">
+                                <span>About us</span>
+                                <span>Careers</span>
+                                <span>Contact us</span>
+                                <span>Term of use</span>
+                                <span>Privacy Policy</span>
+                            </div>
+                        </div>
+                        <div class="info">
+                            <span class="name2">RESOUCES</span>
+                            <div class="infoContent">
+                                <span>Learning Path</span>
+                                <span>Courses</span>
+                                <span>Learning Videos</span>
+                                <span>Educators</span>
+                                <span>Edyoda Story</span>
+                                <span>University</span>
+                            </div>
+                        </div>
+                        <div class="info">
+                            <span class="name2">FOR ENTERPRISES</span>
+                            <div class="infoContent">
+                                <span>Train Your Employees</span>
+
+                                <div class="info">
+                                    <h5 class="name3">QUICK LINKS</h5>
+                                    <div class="infoContent">
+                                        <span>Learn and Earn</span>
+                                        <span>Become a Learning-Enabler</span>
+                                        <span>Tips for Learning-Enabler</span>
+                                        <span>Request New Topic</span>
+                                        <span>Certification</span>
+                                        <span>Affiliate Progam</span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    </div>
+
+
+
+
+
+
+
+                                </div>
+
+
+                            </div>
+
+
+
+
+
+                        </div>
 
 
                     </div>
 
-               
-                </div> 
 
-               
-            </div>   
-            
-            <hr />
+                </div>
 
-           
-
-           
-
-            
+                <hr />
 
 
 
 
 
-        </footer>
-       
+
+
+
+
+
+
+            </footer>
+
 
 
 
