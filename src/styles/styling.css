@@ -193,6 +193,7 @@ label{
 
 .Buttons button:hover{
     cursor: pointer;
+    background-color: #172146;
 }
 
 #all{
